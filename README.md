@@ -1,32 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2166AC,100:1B7837&height=200&section=header&text=Pooya%20Eini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20for%20Healthcare%20%7C%20Clinical%20Prediction%20Models&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2166AC,100:1B7837&height=200&section=header&text=Pooya%20Eini%2C%20MD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physician-Researcher%20%C2%B7%20Cardiac%20Imaging%20%26%20Clinical%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2166ACFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%2B+Clinical+Data;Building+interpretable+prediction+models;Pediatric+ECG+%C2%B7+Cardiovascular+Disease+Detection;Turning+messy+medical+data+into+evidence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2166ACFF&center=true&vCenter=true&width=650&lines=Cardiac+Imaging+%2B+Clinical+Artificial+Intelligence;Echocardiography+%C2%B7+Ultrasound+%C2%B7+CT+%C2%B7+CMR;Accurate%2C+calibrated%2C+validated+prediction+models;Making+AI+genuinely+useful+at+the+bedside" alt="Typing SVG" />
 </a>
 
 </div>
 
 ### 👋 About me
 
-I work at the intersection of **machine learning and medicine** — building interpretable
-models that turn structured clinical data into decision support. Recent work: detecting
-cardiovascular disease from pediatric ECG reports using patient-level, leakage-safe
-ML pipelines (calibration, decision-curve analysis, fairness auditing, TRIPOD+AI-aligned
-reporting).
+I'm a physician-researcher focused on **cardiovascular medicine, cardiac imaging, and
+clinical AI**. My work centers on developing and evaluating machine-learning models for
+diagnosis and prognosis, particularly in echocardiography and ultrasound-based
+cardiovascular assessment — models that are accurate, well-calibrated, validated, and
+genuinely useful at the bedside.
 
-- 🔬 Currently working on interpretable ML for pediatric cardiology
-- 🧪 Interested in clinical prediction models, calibration & fairness, biomedical NLP
-- 🌱 Always learning: statistics for ML, causal inference, reproducible research tooling
-- 💬 Ask me about scikit-learn / LightGBM pipelines, model evaluation, or ECG data
-- 📫 Reach me at **pooyaeini.pe@gmail.com**
+- 🏥 Research Assistant at Shaheed Rajaie Cardiovascular Medical & Research Center, Tehran, Iran
+- 🎓 MD, Shahid Beheshti University of Medical Sciences (2017–2024)
+- 🔬 Research focus: cardiac imaging AI (echocardiography, ultrasound, cardiac CT, CMR),
+  risk prediction for heart failure/stroke/valvular disease, ML model evaluation and
+  external validation, evidence synthesis & meta-analysis of AI-based diagnostic/prognostic models
+- 🧰 Core skills: systematic review & meta-analysis, diagnostic test accuracy synthesis,
+  clinical prediction modeling, discrimination/calibration assessment, statistical analysis in R,
+  reproducible research workflows
+- 📈 250+ citations · h-index 10 · 60+ publications
+- 🌐 More at [pooyaeini.github.io](https://pooyaeini.github.io/)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooyaeini.pe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooyaeini)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3XM6gUkAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pooyaeini.github.io/)
 
 </div>
 
@@ -43,17 +48,6 @@ reporting).
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</div>
-
-### 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pooyaeini&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2166AC&icon_color=1B7837&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyaeini&layout=compact&hide_border=true&theme=default&title_color=2166AC&text_color=333333" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooyaeini&hide_border=true&background=FFFFFF00&ring=2166AC&fire=B2182B&currStreakLabel=1B7837" />
 
 </div>
 
