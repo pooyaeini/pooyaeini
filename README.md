@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2166AC,100:1B7837&height=200&section=header&text=Pooya%20Eini%2C%20MD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physician-Researcher%20%C2%B7%20Cardiac%20Imaging%20%26%20Clinical%20AI&descAlignY=55&descSize=18&reversal=false&v=2" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2166ACFF&center=true&vCenter=true&width=650&lines=Cardiac+Imaging+%2B+Clinical+Artificial+Intelligence;Echocardiography+%C2%B7+Ultrasound+%C2%B7+CT+%C2%B7+CMR;Accurate%2C+calibrated%2C+validated+prediction+models;Making+AI+genuinely+useful+at+the+bedside" alt="Typing SVG" />
-</a>
+<img src="assets/typing.svg" alt="Typing SVG" />
 
 </div>
 
