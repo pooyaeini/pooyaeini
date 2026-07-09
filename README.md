@@ -51,12 +51,11 @@ I'm a **physician-researcher** focused on **cardiovascular medicine, cardiac ima
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| **[catheterization-ML](https://github.com/pooyaeini/catheterization-ML)** | Catheterization prediction using ML models — clinical decision support for invasive cardiac procedures | Python, scikit-learn, XGBoost, SHAP | ⭐ 1 |
-| **[Right-Ventricular-Dysfunction-in-Acute-Pulmonary-Embolism](https://github.com/pooyaeini/Right-Ventricular-Dysfunction-in-Acute-Pulmonary-Embolism)** | ML pipeline predicting RV dysfunction in acute pulmonary embolism from clinical & imaging data | Python, PyTorch, scikit-learn, echocardiography | ⭐ 1 |
-| **[vitaldb-arrhythmia-hrv-ml](https://github.com/pooyaeini/vitaldb-arrhythmia-hrv-ml)** | HRV/ML pipeline predicting intraoperative arrhythmia onset from VitalDB arrhythmia database annotations | Python, HRV analysis, PyTorch, scikit-learn | ⭐ 1 |
-| **[lab-data-extractor](https://github.com/pooyaeini/lab-data-extractor)** | AI-based laboratory data extraction from clinical documents | Python, NLP, OCR, LLMs | ⭐ 1 |
-| **[zzu-pecg-cvd-ml](https://github.com/pooyaeini/zzu-pecg-cvd-ml)** | Interpretable ML detection of cardiovascular disease from structured pediatric ECG reports (ZZU-pECG) | Python, scikit-learn, SHAP, interpretability | ⭐ 1 |
-| **[pooyaeini.github.io](https://github.com/pooyaeini/pooyaeini.github.io)** | Personal academic website & portfolio | HTML, CSS, JavaScript | ⭐ 1 |
+| **[catheterization-ML](https://github.com/pooyaeini/catheterization-ML)** | Catheterization prediction using ML models — clinical decision support for invasive cardiac procedures | Python, scikit-learn, XGBoost, SHAP | ⭐⭐  |
+| **[Right-Ventricular-Dysfunction-in-Acute-Pulmonary-Embolism](https://github.com/pooyaeini/Right-Ventricular-Dysfunction-in-Acute-Pulmonary-Embolism)** | ML pipeline predicting RV dysfunction in acute pulmonary embolism from clinical & imaging data | Python, PyTorch, scikit-learn, echocardiography | ⭐⭐  |
+| **[vitaldb-arrhythmia-hrv-ml](https://github.com/pooyaeini/vitaldb-arrhythmia-hrv-ml)** | HRV/ML pipeline predicting intraoperative arrhythmia onset from VitalDB arrhythmia database annotations | Python, HRV analysis, PyTorch, scikit-learn | ⭐⭐⭐  |
+| **[lab-data-extractor](https://github.com/pooyaeini/lab-data-extractor)** | AI-based laboratory data extraction from clinical documents | Python, NLP, OCR, LLMs | ⭐⭐⭐  |
+| **[zzu-pecg-cvd-ml](https://github.com/pooyaeini/zzu-pecg-cvd-ml)** | Interpretable ML detection of cardiovascular disease from structured pediatric ECG reports (ZZU-pECG) | Python, scikit-learn, SHAP, interpretability | ⭐⭐  |
 
 ### 📊 Contribution graph
 
